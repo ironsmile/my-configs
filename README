@@ -1,0 +1,8 @@
+= My configuration files
+
+kareschema and katesyntax -> ~/.kde/share/config
+.bashrc and .vimrc -> ~/
+mozilla/bookmars -> ~/.mozilla/firefox/<alabala>.<acc>/bookmarkbackups
+mozilla/pattersn.ini -> ~/.mozilla/firefox/<alabala>.<acc>/adblockplus
+httpd.conf -> just for reference for some configs
+
